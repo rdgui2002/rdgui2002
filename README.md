@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=PYTHON+DEVELOPER;AUTOMATION+SYSTEMS;ARDUINO+AND+ELECTRONICS;POSTGRESQL+DATABASE;LEARNING+ENGLISH;WELCOME+TO+MY+CYBERSPACE+" />
 
 </div>
-
----
 ---
 
 # 💻 About Me
@@ -33,10 +31,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdgui2002&show_icons=true&theme=radical&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF"/>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdgui2002&theme=radical&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdgui2002&layout=compact&theme=radical&border_color=00F7FF&title_color=00F7FF"/>
-
 </div>
 
 ---
