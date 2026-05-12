@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Developer;Automation+Systems;Arduino+and+Electronics;Learning+English" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0Y2N5c3VxM2M1eG9lYTZ5a3Q1eDdtYWV0M2N1eXQ4MXg5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
-
 </div>
 
 ---
