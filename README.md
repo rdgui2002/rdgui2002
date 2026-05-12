@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=PYTHON+DEVELOPER;AUTOMATION+SYSTEMS;ARDUINO+AND+ELECTRONICS;POSTGRESQL+DATABASE;LEARNING+ENGLISH;WELCOME+TO+MY+CYBERSPACE+" />
 
 </div>
----
+
 
 # 💻 About Me
 
