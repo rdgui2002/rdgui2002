@@ -32,7 +32,6 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdgui2002&theme=radical&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdgui2002&layout=compact&theme=radical&border_color=00F7FF&title_color=00F7FF"/>
 </div>
 
 ---
