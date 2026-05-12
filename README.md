@@ -54,10 +54,5 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rdgui2002&label=CYBERSPACE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
 <br><br>
-
-### 💀 CODE • LEARN • BUILD • REPEAT 💀
-
 </div>
