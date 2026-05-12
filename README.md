@@ -1,14 +1,14 @@
 # ⚡ Rodrigo Guimaraes
 
 💻 Automation & Backend Developer  
-🔌 Electronics and Arduino  
+🔌 Electronics, Arduino and Automation  
 🚀 Learning English
 
 ---
 
 ## 🚀 Technologies
 
-![My Skills](https://skillicons.dev/icons?i=python,mysql,arduino,git,github)
+![My Skills](https://skillicons.dev/icons?i=python,postgres,arduino,git,github)
 
 ---
 
