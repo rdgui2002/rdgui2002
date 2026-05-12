@@ -1,5 +1,7 @@
 # ⚡ Rodrigo Guimaraes
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Python+Developer;Automation+Systems;Arduino+and+Electronics;Learning+English" />
+
 💻 Automation & Backend Developer  
 🔌 Electronics, Arduino and Automation  
 🚀 Learning English
